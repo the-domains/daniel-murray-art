@@ -1,7 +1,7 @@
 name: Daniel Murray Art
 favicon: null
-layout_spectrum: 0.6145075710956007
-typography_spectrum: 0.06509994831867516
+layout_spectrum: 1
+typography_spectrum: 0.72012
 title: Official webpage for the art of Daniel Murray
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6339110191911459
-  lightness: 0.19746304699219763
-  saturation: 0.1574041503481567
-  rhythmicContrast: 0.12309930380433798
+    - '#e5c87c'
+    - '#1a1511'
+    - '#5e380b'
+    - '#c39e34'
+    - '#905b15'
+  brandStrength: 0.5625
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
