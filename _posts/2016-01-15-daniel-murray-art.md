@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T09:14:49.593Z'
-dateModified: '2016-01-15T09:14:29.500Z'
+datePublished: '2016-01-15T16:31:30.824Z'
+dateModified: '2016-01-15T16:31:22.497Z'
 title: Daniel Murray Art
 author: []
+sourcePath: _posts/2016-01-15-daniel-murray-art.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-daniel-murray-art.md
-published: true
 url: daniel-murray-art/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 # Daniel Murray Art
 
 Hi and a warm welcome to my official website! My name is Dan and I present some of my best work on this page. I am accepting commissions so please [get in touch with me if you are interested.][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86590e8-ac9b-408c-8ebc-2abc240d5b40.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b510d8-e767-4f43-abae-ba11e7fb79e7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6af5033d-6f61-4885-a310-56c5676f5283.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ca50b6-1cfd-4fd7-81f9-bbb85985fe98.jpg)
@@ -37,7 +38,6 @@ Hi and a warm welcome to my official website! My name is Dan and I present some 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f658b177-4772-4831-a630-f16dfed56fdc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c443060-3241-4432-b0ac-3952531a7d3e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17158b3-0c35-41e0-8b0a-de577ed28c8f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86590e8-ac9b-408c-8ebc-2abc240d5b40.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bb9675c-1314-4710-a0a0-5a95c1691675.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a52ef9f5-469f-4f04-9675-f927c8aafc62.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfd03e81-3e12-491c-8c88-95a4242d4ef6.jpg)
