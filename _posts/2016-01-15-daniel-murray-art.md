@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T16:31:30.824Z'
+datePublished: '2016-01-15T16:31:30.957Z'
 dateModified: '2016-01-15T16:31:22.497Z'
 title: Daniel Murray Art
 author: []
