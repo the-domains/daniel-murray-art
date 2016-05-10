@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-15T16:31:30.957Z'
-dateModified: '2016-01-15T16:31:22.497Z'
+description: 'Hi and a warm welcome to my official website! My name is Dan and I present some of my best work on this page. I am accepting commissions so please get in touch with me if you are interested.'
+datePublished: '2016-05-10T13:10:41.530Z'
+dateModified: '2016-05-10T13:09:41.992Z'
 title: Daniel Murray Art
 author: []
 sourcePath: _posts/2016-01-15-daniel-murray-art.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: daniel-murray-art/index.html
 _type: Article
 
@@ -44,5 +43,6 @@ Hi and a warm welcome to my official website! My name is Dan and I present some 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c86d62f-e9d5-42c4-b346-801b10180ec5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d49a6f5-12b6-4d2f-a607-b7419c33d0b5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22749753-af2a-4321-b578-bd8a0b218704.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8871bb8e-c8bf-4f07-8180-abc326e8139f.jpg)
 
 [0]: https://www.facebook.com/Dan-Murray-Artist-197596477105627
