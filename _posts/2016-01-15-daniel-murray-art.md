@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Hi and a warm welcome to my official website! My name is Dan and I present some of my best work on this page. I am accepting commissions so please get in touch with me if you are interested.'
-datePublished: '2016-05-10T13:10:41.530Z'
-dateModified: '2016-05-10T13:09:41.992Z'
+description: Dan Murray is a figurative painter working in the North West highlands. He studied at The Edinburgh College of Art. In June of 2015 he was involved in his first major exhibition ” The Crossing” along with celebrated artist Diana Hope in Ullapool. He often exhibits with the arts group An Talla Solais in Ullapool. In 2013 he was chosen to take part in Sky Arts portrait of the year competition. He is currently working on new work in the highlands.
+datePublished: '2016-05-10T13:31:22.195Z'
+dateModified: '2016-05-10T13:30:49.407Z'
 title: Daniel Murray Art
 author: []
 sourcePath: _posts/2016-01-15-daniel-murray-art.md
@@ -23,7 +23,9 @@ _type: Article
 ---
 # Daniel Murray Art
 
-Hi and a warm welcome to my official website! My name is Dan and I present some of my best work on this page. I am accepting commissions so please [get in touch with me if you are interested.][0]
+Dan Murray is a figurative painter working in the North West highlands. He studied at The Edinburgh College of Art. In June of 2015 he was involved in his first major exhibition " The Crossing" along with celebrated artist Diana Hope in Ullapool. He often exhibits with the arts group An Talla Solais in Ullapool. In 2013 he was chosen to take part in Sky Arts portrait of the year competition. He is currently working on new work in the highlands.
+
+You can follow Dan Murray on Facebook
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86590e8-ac9b-408c-8ebc-2abc240d5b40.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b510d8-e767-4f43-abae-ba11e7fb79e7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6af5033d-6f61-4885-a310-56c5676f5283.jpg)
@@ -44,5 +46,3 @@ Hi and a warm welcome to my official website! My name is Dan and I present some 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d49a6f5-12b6-4d2f-a607-b7419c33d0b5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22749753-af2a-4321-b578-bd8a0b218704.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8871bb8e-c8bf-4f07-8180-abc326e8139f.jpg)
-
-[0]: https://www.facebook.com/Dan-Murray-Artist-197596477105627
