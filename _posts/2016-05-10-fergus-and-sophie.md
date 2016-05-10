@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Fergus and Sophie
-datePublished: '2016-05-10T13:08:58.820Z'
-dateModified: '2016-05-10T13:08:42.927Z'
+datePublished: '2016-05-10T13:22:59.449Z'
+dateModified: '2016-05-10T13:22:30.301Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-fergus-and-sophie.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-fergus-and-sophie.md
 url: fergus-and-sophie/index.html
 _type: Article
 
