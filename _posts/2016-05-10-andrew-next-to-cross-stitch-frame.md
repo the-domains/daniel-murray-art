@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Andrew Next to Cross Stitch Frame
-datePublished: '2016-05-10T14:32:06.875Z'
-dateModified: '2016-05-10T13:16:51.538Z'
+datePublished: '2016-05-11T11:48:25.159Z'
+dateModified: '2016-05-10T19:00:11.794Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-andrew-next-to-cross-stitch-frame.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-andrew-next-to-cross-stitch-frame.md
 url: andrew-next-to-cross-stitch-frame/index.html
 _type: Article
 
@@ -26,6 +26,7 @@ Andrew Next to Cross Stitch Frame
 by Daniel Murray
 
 [Visit Facebook][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa65cbe0-dfc8-4492-9b9b-02d3ba1105dc.jpg)
 
 [View Collection][1]
 
