@@ -1,22 +1,17 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Dan Murray is a figurative painter working in the North West highlands. He studied at The Edinburgh College of Art. In June of 2015 he was involved in his first major exhibition ” The Crossing” along with celebrated artist Diana Hope in Ullapool. He often exhibits with the arts group An Talla Solais in Ullapool. In 2013 he was chosen to take part in Sky Arts portrait of the year competition. He is currently working on new work in the highlands.
-datePublished: '2016-05-11T18:14:29.340Z'
-dateModified: '2016-05-11T15:19:40.220Z'
-title: Daniel Murray Art
-author: []
-sourcePath: _posts/2016-01-15-daniel-murray-art.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-16T12:56:37.791Z'
+datePublished: '2016-05-16T12:57:14.304Z'
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: {}
+title: Daniel Murray Art
+description: ''
+author: []
 starred: true
+sourcePath: _posts/2016-01-15-daniel-murray-art.md
 url: daniel-murray-art/index.html
 _type: Article
 
