@@ -1,4 +1,6 @@
-typography_spectrum: 0.72012
+typography_spectrum: 0.7281904756509247
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#e5c87c'
@@ -6,27 +8,54 @@ color:
     - '#5e380b'
     - '#c39e34'
     - '#905b15'
-  brandStrength: 0.5625
-  lightness: 0.5625
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+  brandStrength: 0.03643244583740609
+  lightness: 0.6130130757396985
+  saturation: 0.8082908592182259
+  rhythmicContrast: 0.02257292179400009
+github: true
 opengraph:
   image: null
   type: null
-  appId: null
-layout_spectrum: 1
+  appId: ''
+layout_spectrum: 0.8627191309479646
 analytics:
-  google: null
+  google: UA-84855412-1
   facebook: null
-  twitter: null
+  twitter: ''
+author:
+  name: PHILLIP JOHNSON
+  email: philjo_1005@yahoo.co.uk
+  url: 'https://phillipjohnson.org.uk'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8540bd32-0c75-4775-87f5-38c2a0577a31.jpg
 name: Daniel Murray Art
+url: 'https://danielmurrayartist.co.uk'
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Daniel Murray Artist - Official webpage
+navigation:
+  - name: Daniel Murray Art
+    id: 14dd2040-420d-44cb-80e4-f20cbb0cea24
+    type: content
+  - name: About & CV
+    id: 4aea76a4-a258-467d-833c-12e9d7fcc7e8
+    type: content
+  - name: Portfolio
+    id: 35b8d0fb-6f3d-4484-914a-48181ca5676b
+    type: content
+  - name: Portraits
+    id: 02f6c521-4dbe-45dc-9ad8-53e61e90bba1
+    type: content
+  - name: Contact
+    id: ed616755-5e27-46a9-b1b4-15324c68d403
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e1bf45b-9001-4443-8a41-43adb4b13e88.ico
+title: Daniel Murray Artist
+content: []
 description: Visual artist working in the Highlands
-purpose: []
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/Dan-Murray-Artist-197596477105627/'
+    label: Facebook
