@@ -41,14 +41,14 @@ navigation:
   - name: Portraits
     id: 02f6c521-4dbe-45dc-9ad8-53e61e90bba1
     type: content
+  - name: Other Work
+    id: dfb034bf-d30c-4b5e-83d3-6baec55403f3
+    type: content
   - name: About
     id: 4aea76a4-a258-467d-833c-12e9d7fcc7e8
     type: content
   - name: Contact
     id: ed616755-5e27-46a9-b1b4-15324c68d403
-    type: content
-  - name: Other Work
-    id: dfb034bf-d30c-4b5e-83d3-6baec55403f3
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e1bf45b-9001-4443-8a41-43adb4b13e88.ico
