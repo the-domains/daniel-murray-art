@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-11-02T14:44:10.068Z'
-datePublished: '2018-11-02T14:44:10.193Z'
+dateModified: '2018-11-02T14:58:15.416Z'
+datePublished: '2018-11-02T14:58:15.527Z'
 title: Other Work
 author: []
 publisher: {}
