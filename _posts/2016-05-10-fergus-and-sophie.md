@@ -1,36 +1,35 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Fergus and Sophie
-datePublished: '2016-05-11T15:00:37.135Z'
-dateModified: '2016-05-11T11:48:36.970Z'
-title: ''
-author: []
+datePublished: '2018-11-02T11:36:48.410Z'
 sourcePath: _posts/2016-05-10-fergus-and-sophie.md
+inFeed: true
+isBasedOnUrl: null
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2018-11-02T11:36:48.228Z'
+title: Fergus and Sophie
+publisher: {}
+description: Artist Feature
+inLanguage: null
 starred: false
-url: fergus-and-sophie/index.html
-_type: Article
+datePublishedOriginal: '2016-09-28T10:56:03.754Z'
+_type: Blurb
 
 ---
-Fergus and Sophie
+Artist Feature
+![by artist Daniel Murray](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540a327f-74ef-4cac-9719-1d19943c5c6e.jpg)
 
-by artist Daniel Murray
+---
+
+Fergus and Sophie
 
 [Visit on Facebook][0]
 
 [Artist Collection][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/540a327f-74ef-4cac-9719-1d19943c5c6e.jpg)
 
 Copyright Daniel Murray 2016
 
-[0]: https://www.facebook.com/search/top/?q=Dan%20Murray%20Artist
+[0]: https://www.facebook.com/Dan-Murray-Artist-197596477105627/ "Daniel Murray Artist on Facebook"
 [1]: https://thegrid.ai/daniel-murray-art/daniel-murray-art/
