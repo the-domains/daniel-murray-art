@@ -1,0 +1,20 @@
+---
+inFeed: false
+description: ''
+dateModified: '2018-11-02T12:53:06.627Z'
+datePublished: '2018-11-02T12:53:12.835Z'
+title: Portraits
+author: []
+publisher: {}
+via: {}
+sourcePath: _posts/2018-11-01-portraits.md
+hasPage: true
+starred: false
+datePublishedOriginal: '2018-11-02T12:53:12.835Z'
+url: portraits/index.html
+_type: MediaObject
+
+---
+# Portraits
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytVE1z2jAQvedXqC4ztmewDEmnnRhIp5P23Bxy6XEtr7GIbbmSIJAm_z3yV5ApJNNpzIDE7tPuk_ftzj98_3l9--vmB8l0kV-dzfsFITFLzss7IjFfOErvclQZonaI3lW4cDRudciUckiBCQcDYRKxdEgmMV04mdZVFIYsKVeKslyskzQHiZSJIoQVbMOcxypMoWS7WGzDKb2gn8LV7zXKHe2tQWOlTZLQ0GlIHKa_OiPmgZdDhBdL8qcx1k8sZIIyIqUocWZZt4HKIBH3EZmQabUlX8xXLmPwJuPmQz_7e3ggAi2hVKmQRUQUgxy96Xjqz0hQqNMu8XDSd4_xHden3KdOdTS45qKMCOQ5mdBzRRAUBrwMxFpbjN5A9eReh9k8X0W-iWhe5hM5qFaUiQ3Kg5pVoo9ktAeab3BGHkycBLcRuby8nB0vCJ1cjOufk2UZAI4Wx0acLJEFes3ZXvhsHjayNfINu66KRbKr1cwkr7Qt5xVsoLU6REm2byKRIO16o-6fdmu6Y2oy0YKXdGX6wCRqzr5H6IIvJWg0Kc7p9D8zvMMEqIDd_TOLdjCMvHRdslpN3sjfS2wDkkCS3IpvRqsLU8e1NR1q59KI2DA56tNc53jTidQgXG6kn6C7R428l-BfjbtYuiRq1pebuT5FYNmenUWuzzPSGVcm_sirN9Y8GhCpAbWfgtbScxubewRsinIATUBDEPOl65PHx4HHYI-FgIaMO4duyH90CMtBqYXTX6suD1yZy7Vxapg7rlP7A3rjlvpBipbBvYTKA8v1ZO15SryuNP7wrOeC_XLbbGZ-mFxub-9O2lc7PNdvvWE5BiWPhn__ItqvI1qKa1GmOWfaMzZLud0seAbHrU7f" height="900" style=""></iframe>
