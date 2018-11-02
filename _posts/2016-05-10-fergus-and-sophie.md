@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-11-02T11:55:46.513Z'
+datePublished: '2018-11-02T11:55:55.022Z'
 sourcePath: _posts/2016-05-10-fergus-and-sophie.md
 inFeed: true
 isBasedOnUrl: null
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2018-11-02T11:55:46.321Z'
+dateModified: '2018-11-02T11:55:54.899Z'
 title: Fergus and Sophie
 publisher: {}
 description: ''
