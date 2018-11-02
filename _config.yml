@@ -83,3 +83,6 @@ purpose:
   - type: external
     url: 'https://www.facebook.com/Dan-Murray-Artist-197596477105627/'
     label: Facebook
+  - type: external
+    url: 'https://www.instagram.com/danmurrayartist/'
+    label: Instagram
