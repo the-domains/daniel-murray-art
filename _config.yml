@@ -38,14 +38,14 @@ navigation:
   - name: Daniel Murray Art
     id: 14dd2040-420d-44cb-80e4-f20cbb0cea24
     type: content
+  - name: Portraits
+    id: 02f6c521-4dbe-45dc-9ad8-53e61e90bba1
+    type: content
   - name: About
     id: 4aea76a4-a258-467d-833c-12e9d7fcc7e8
     type: content
   - name: Contact
     id: ed616755-5e27-46a9-b1b4-15324c68d403
-    type: content
-  - name: Portraits
-    id: 02f6c521-4dbe-45dc-9ad8-53e61e90bba1
     type: content
   - name: Other Work
     id: dfb034bf-d30c-4b5e-83d3-6baec55403f3
