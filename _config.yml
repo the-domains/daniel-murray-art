@@ -1,5 +1,6 @@
-layout_spectrum: 0.7369670959924449
 typography_spectrum: 0.7285079098549109
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B9B6AF'
@@ -11,13 +12,12 @@ color:
   lightness: 0.06678831850879337
   saturation: 0.4916542467136526
   rhythmicContrast: 0.4063281369575364
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: ''
+layout_spectrum: 0.7369670959924449
 analytics:
   google: UA-84855412-1
   facebook: null
@@ -46,6 +46,9 @@ navigation:
     type: content
   - name: Contact
     id: ed616755-5e27-46a9-b1b4-15324c68d403
+    type: content
+  - name: Other Work
+    id: dfb034bf-d30c-4b5e-83d3-6baec55403f3
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e1bf45b-9001-4443-8a41-43adb4b13e88.ico
