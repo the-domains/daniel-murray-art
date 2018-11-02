@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-11-02T11:31:59.417Z'
-datePublished: '2018-11-02T11:31:59.959Z'
+dateModified: '2018-11-02T11:32:38.299Z'
+datePublished: '2018-11-02T11:32:38.816Z'
 title: Other Work
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-11-02-other-work.md
 starred: false
 datePublishedOriginal: '2018-11-02T11:31:59.959Z'
-sourcePath: _posts/2018-11-02-other-work.md
 url: other-work/index.html
 _type: Blurb
 
