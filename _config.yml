@@ -38,7 +38,7 @@ navigation:
   - name: Daniel Murray Art
     id: 14dd2040-420d-44cb-80e4-f20cbb0cea24
     type: content
-  - name: About & CV
+  - name: About
     id: 4aea76a4-a258-467d-833c-12e9d7fcc7e8
     type: content
   - name: Portraits
@@ -71,7 +71,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
