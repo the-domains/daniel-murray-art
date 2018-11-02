@@ -41,9 +41,6 @@ navigation:
   - name: About & CV
     id: 4aea76a4-a258-467d-833c-12e9d7fcc7e8
     type: content
-  - name: Portfolio
-    id: 35b8d0fb-6f3d-4484-914a-48181ca5676b
-    type: content
   - name: Portraits
     id: 02f6c521-4dbe-45dc-9ad8-53e61e90bba1
     type: content
