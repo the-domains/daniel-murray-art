@@ -1,19 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 description: 31/10/2018
-dateModified: '2018-11-15T22:28:15.986Z'
-datePublished: '2018-11-15T22:28:16.554Z'
+dateModified: '2018-11-15T22:31:53.155Z'
+datePublished: '2018-11-15T22:31:54.243Z'
 title: Dan Murray Creative CV
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-11-15-dan-murray-creative-cv.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-11-15T22:28:16.554Z'
-sourcePath: _posts/2018-11-15-dan-murray-creative-cv.md
+url: dan-murray-creative-cv/index.html
 _type: Blurb
 
 ---
 # **Dan Murray Creative CV**
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4260eab-a0fe-4932-8e52-cfe61537df01.jpg)
 
 **31/10/2018**
 
@@ -22,6 +28,7 @@ Winner of the Scottish Portrait award in fine art
 **27/06/15 - 26/07/15**
 
 The Crossing. Joint exhibition with Diana Hope at An Talla Solais
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b9e42459b38fcfc774b4a86c969172ae767bf3.jpg)
 
 **2010 - present **
 
@@ -71,4 +78,3 @@ about my work.
 **09/2003 -- 05/2004**
 
 Foundation art certificate at Bridge House Art with Eleanor White.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc54cbb6-d9c0-49e2-8058-1120376a0208.jpg)
