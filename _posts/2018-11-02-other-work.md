@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-11-15T22:17:57.229Z'
-datePublished: '2018-11-15T22:17:57.374Z'
+dateModified: '2018-11-15T22:20:50.047Z'
+datePublished: '2018-11-15T22:20:50.274Z'
 title: Other Work
 author: []
 publisher: {}
@@ -40,5 +40,21 @@ _type: Blurb
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93b2570-5bf5-48ae-a649-84e96592e998.jpg)
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f873c3d4-6ca8-48df-a146-e95099ab4336.jpg)
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff493b6d-6712-4c15-9644-c26834ede378.jpg)
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0595777e-2a2c-4640-923c-639f3684420c.jpg)
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/317000bc-d1fe-455b-8eb1-dc5ddeff2613.jpg)
 
 ---
