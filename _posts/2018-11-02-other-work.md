@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-11-15T22:10:35.886Z'
-datePublished: '2018-11-15T22:10:36.593Z'
+dateModified: '2018-11-15T22:17:47.451Z'
+datePublished: '2018-11-15T22:17:47.640Z'
 title: Other Work
 author: []
 publisher: {}
@@ -16,8 +16,6 @@ _type: Blurb
 
 ---
 # Other Work
-
----
 
 ---
 
@@ -38,6 +36,9 @@ _type: Blurb
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df46be78-cc94-48e4-8d2b-6b6753a9b01d.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93b2570-5bf5-48ae-a649-84e96592e998.jpg)
 
 ---
